@@ -1,0 +1,19 @@
+body
+{
+    background-color: cyan;
+     background-size: cover;
+}
+
+.head
+{
+    width: 100%;
+    font-size: 40px;
+    margin: 0px;
+}
+
+canvas
+{
+    background-color: white;
+    border: 5px solid grey;
+    box-shadow: 5px 5px 5px black;
+}
